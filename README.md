@@ -20,7 +20,7 @@ This project is a **Product Preview Card Component** that displays four features
 
 ### Screenshot
 
-![Product Preview Card Screenshot](./assets/images/screenshot-product-preview-card.png)
+![Product Preview Card Screenshot](./assets/images/screenshot-four-cards.png)
 
 ### Links
 

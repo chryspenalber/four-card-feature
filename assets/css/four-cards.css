@@ -31,7 +31,7 @@ body {
 
 header {
     width: clamp(270px, 33%, 600px);
-    padding: 30px 0;
+    padding: 30px 0 16px 0;
     text-align: center;
 }
 
