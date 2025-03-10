@@ -42,7 +42,6 @@ The development process followed a structured approach:
 - **CSS3** (Custom properties, Grid, Flexbox, Media queries)
 - **Google Fonts** (Poppins)
 
-
 **CSS Features:**
 
 - **CSS Variables:** Used for color management.
